@@ -2,3 +2,6 @@
 # [程序员如何干到65岁退休](https://github.com/ICU2020/programer/blob/main/career_planning.md)
 
 # [程序员如何找对象](https://github.com/ICU2020/programer/blob/main/findlove.md)
+
+
+# [程序员35岁危机自救](https://github.com/ICU2020/programer/blob/main/programmer35.md)
