@@ -10,3 +10,7 @@
 # [程序员如何发展副业](https://github.com/ICU2020/programer/blob/main/side.md)
 
 # [Vue.js开发](https://github.com/ICU2020/programer/blob/main/vuejs.md)
+
+# [协助React开发](https://github.com/ICU2020/programer/blob/main/react.md)
+
+# [预测比特币](https://github.com/ICU2020/programer/blob/main/bitcoin.md)
