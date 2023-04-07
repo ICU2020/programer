@@ -9,6 +9,8 @@
 
 # [程序员如何发展副业](https://github.com/ICU2020/programer/blob/main/side.md)
 
+# [程序员如何正确的背锅](https://github.com/ICU2020/programer/blob/main/beiguo.md)
+
 # [Vue.js开发](https://github.com/ICU2020/programer/blob/main/vuejs.md)
 
 # [协助React开发](https://github.com/ICU2020/programer/blob/main/react.md)
