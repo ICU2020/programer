@@ -16,3 +16,5 @@
 # [协助React开发](https://github.com/ICU2020/programer/blob/main/react.md)
 
 # [预测比特币](https://github.com/ICU2020/programer/blob/main/bitcoin.md)
+
+# [适合五一出游的国内最佳景点](https://github.com/ICU2020/programer/blob/main/bestattractions.md)
